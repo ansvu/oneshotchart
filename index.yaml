@@ -7,10 +7,10 @@ entries:
       charts.openshift.io/provider: RedHat
       charts.openshift.io/supportURL: https://github.com/ansvu/oneshotchart
     apiVersion: v2
-    appVersion: 1-42
-    created: "2024-01-16T18:23:32.349974104-06:00"
+    appVersion: 1-22
+    created: "2024-03-29T17:51:30.625350607-05:00"
     description: A Helm chart for Kubernetes
-    digest: 0ce52f601fec4b918149284036b759cc405e9bd46bc6fb3314db27c508d2e3ac
+    digest: 7964b7e421d078f4bb6047f3bb9532e3838eebfd61d88070f68e346b4fa2a53b
     icon: https://www.example.com/chart-icon.png
     kubeVersion: '>=1.20.0'
     name: oneshotchart
@@ -18,4 +18,4 @@ entries:
     urls:
     - https://ansvu.github.io/oneshotchart/oneshotchart-0.1.4.tgz
     version: 0.1.4
-generated: "2024-01-16T18:23:32.348693296-06:00"
+generated: "2024-03-29T17:51:30.62452079-05:00"
