@@ -1,2 +1,2 @@
-# oneshotchart
-This is used only by Andrew Vu please:-) for oneshot automation
+# finalchart
+This is final chart to test one-shot-cnf-certification-automation
