@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   #repository: quay.io/bitnami/nginx
-  repository: quay.io/avu0/oneshot-demo2-nginx-ubi9 #registry.access.redhat.com/ubi8/nginx-118 
+  repository: quay.io/avu0/oneshot-demo3-nginx-ubi9 #registry.access.redhat.com/ubi8/nginx-118 
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
